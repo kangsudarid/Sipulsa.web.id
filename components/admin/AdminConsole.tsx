@@ -250,7 +250,7 @@ export function AdminConsole() {
               </div>
               <div className="admin-brand-text">
                 <span className="admin-brand-title">
-                  Joga<span>tix</span>
+                  Si<span>Pulsa</span>
                 </span>
                 <span className="admin-badge-sub">Admin Console</span>
               </div>
