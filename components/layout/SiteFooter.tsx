@@ -16,7 +16,7 @@ export function SiteFooter() {
                 <BrandBoltIcon width={20} height={20} />
               </span>
               <span className="footer-brand-name">
-                Joga<span>tix</span>
+                Si<span>Pulsa</span>
               </span>
             </Link>
             <p className="footer-brand-desc">
