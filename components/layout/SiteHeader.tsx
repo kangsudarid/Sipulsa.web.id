@@ -25,7 +25,7 @@ export function SiteHeader() {
             <BrandBoltIcon width={20} height={20} />
           </span>
           <span className="brand-name">
-            Joga<span>tix</span>
+            Si<span>Pulsa</span>
           </span>
         </Link>
 
