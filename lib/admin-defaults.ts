@@ -21,16 +21,16 @@ export const CATEGORY_NAMES: Record<CategorySlug, string> = {
 };
 
 export const defaultSettings: AdminSettings = {
-  whatsappNumber: "081234567890",
-  whatsappAdminName: "Customer Care Jogatix",
-  whatsappHours: "07:00 - 23:00 WIB Setiap Hari",
+  whatsappNumber: "081357266414",
+  whatsappAdminName: "Customer Care Sipulsa",
+  whatsappHours: "07:00 - 22:00 WIB Setiap Hari",
   whatsappTemplateOrder:
-    "Halo Admin Jogatix, saya ingin konfirmasi pembayaran pesanan dengan ID: {id} ({produk}) sebesar {total}. Mohon segera diverifikasi. Terima kasih!",
+    "Halo Admin Sipulsa, saya ingin konfirmasi pembayaran pesanan dengan ID: {id} ({produk}) sebesar {total}. Mohon segera diverifikasi. Terima kasih!",
   whatsappTemplateSuccess:
-    "Halo Kak! Pesanan Jogatix ID: {id} untuk {produk} telah BERHASIL diproses. Nomor SN / Token Anda: {sn}. Terima kasih telah bertransaksi di Jogatix!",
+    "Halo Kak! Pesanan Sipulsa ID: {id} untuk {produk} telah BERHASIL diproses. Nomor SN / Token Anda: {sn}. Terima kasih telah bertransaksi di Jogatix!",
   qrisImage: "",
-  qrisMerchant: "JOGATIX DIGITAL COMMERCE",
-  qrisNmid: "ID1020039102910",
+  qrisMerchant: "Sudar Abadi Makmur",
+  qrisNmid: "ID1025368251597",
   qrisActive: true,
   qrisInstructions:
     "Buka aplikasi GoPay, OVO, DANA, ShopeePay, BCA Mobile, atau m-banking lainnya, lalu scan kode QR di atas.",
@@ -41,10 +41,10 @@ export const defaultSettings: AdminSettings = {
     { id: "bni", name: "BNI", code: "bni", accNo: "0819284910", accName: "JOGATIX INDONESIA", active: true },
   ],
   ewallets: [
-    { id: "gopay", name: "GoPay", accNo: "081234567890", accName: "Jogatix Official", active: true },
-    { id: "dana", name: "DANA", accNo: "081234567890", accName: "Jogatix Official", active: true },
-    { id: "ovo", name: "OVO", accNo: "081234567890", accName: "Jogatix Official", active: true },
-    { id: "shopeepay", name: "ShopeePay", accNo: "081234567890", accName: "Jogatix Official", active: true },
+    { id: "gopay", name: "GoPay", accNo: "0850855399521", accName: "Sudarmanto", active: true },
+    { id: "dana", name: "DANA", accNo: "081357266414", accName: "Sudarmanto", active: true },
+    { id: "ovo", name: "OVO", accNo: "085855399521", accName: "Sudarmanto", active: true },
+    { id: "shopeepay", name: "ShopeePay", accNo: "081357266414", accName: "Sudarmanto", active: true },
   ],
   adminFeeBill: 2500,
 };
