@@ -4,7 +4,7 @@ import { JsonLd } from "@/components/seo/JsonLd";
 import { breadcrumbSchema, createMetadata, serviceCatalogSchema } from "@/lib/seo";
 
 export const metadata: Metadata = createMetadata({
-  title: "Semua Layanan - Jogatix",
+  title: "Semua Layanan - Sipulsa",
   description:
     "Temukan layanan yang kamu butuhkan. Mulai dari pulsa, paket data, uang elektronik, PLN, sampai pembayaran tagihan. Pilih kategori dan lihat produk yang tersedia.",
   path: "/layanan",
