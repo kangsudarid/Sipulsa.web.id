@@ -1,7 +1,7 @@
 import { ImageResponse } from "next/og";
 import { siteConfig } from "@/lib/site";
 
-export const alt = "Jogatix — Urus Kebutuhan Digital, Lebih Gampang";
+export const alt = "Sipulsa — Kebutuhan Digital, Lebih Gampang";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
