@@ -5,7 +5,7 @@ export const faqItems: FaqItem[] = [
   {
     id: "faq-1",
     badge: "Panduan",
-    question: "Bagaimana cara bertransaksi di Jogatix?",
+    question: "Bagaimana cara bertransaksi di Sipul?",
     answer: [
       {
         type: "text",
@@ -20,7 +20,7 @@ export const faqItems: FaqItem[] = [
     answer: [
       {
         type: "text",
-        text: "Tidak perlu. Jogatix dapat digunakan secara langsung tanpa kewajiban registrasi atau login akun. Cukup simpan ID Transaksi unik yang diterbitkan setelah checkout untuk memantau status pembayaran dan pengiriman produk kapan saja.",
+        text: "Tidak perlu. Sipul dapat digunakan secara langsung tanpa kewajiban registrasi atau login akun. Cukup simpan ID Transaksi unik yang diterbitkan setelah checkout untuk memantau status pembayaran dan pengiriman produk kapan saja.",
       },
     ],
   },
