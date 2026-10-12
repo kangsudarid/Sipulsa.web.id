@@ -24,7 +24,7 @@ const jetbrainsMono = JetBrains_Mono({
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
-  title: "Dashboard Admin — Jogatix Management Console",
+  title: "Dashboard Admin — Sipul Management Console",
   description:
     "Dashboard administrasi resmi Jogatix untuk kelola produk, upload foto QRIS, nomor WhatsApp, metode pembayaran, dan kelola transaksi.",
   // The admin console must never be indexed.
