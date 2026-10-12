@@ -4,7 +4,7 @@ import { JsonLd } from "@/components/seo/JsonLd";
 import { breadcrumbSchema, createMetadata } from "@/lib/seo";
 
 export const metadata: Metadata = createMetadata({
-  title: "Cek Transaksi - Jogatix",
+  title: "Cek Transaksi - Sipulsa",
   description:
     "Cari tahu status pesananmu. Masukkan ID transaksi untuk melihat perkembangan pesanan digital kamu di Jogatix.",
   path: "/cek-transaksi",
