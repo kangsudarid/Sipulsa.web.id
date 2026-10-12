@@ -1,4 +1,4 @@
-# Jogatix
+# Sipulsa
 
 Platform transaksi digital untuk pulsa, paket data, uang elektronik, PLN, dan pembayaran berbagai tagihan. Dibangun dengan Next.js 15 (App Router) + TypeScript.
 
