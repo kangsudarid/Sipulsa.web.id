@@ -5,7 +5,7 @@ import { JsonLd } from "@/components/seo/JsonLd";
 import { breadcrumbSchema, createMetadata } from "@/lib/seo";
 
 export const metadata: Metadata = createMetadata({
-  title: "Tentang Jogatix - Transaksi Digital Jelas & Terstruktur",
+  title: "Tentang Sipulsa - Transaksi Digital Jelas & Terstruktur",
   description:
     "Jogatix dirancang sebagai tempat untuk menemukan layanan digital dan mengurus berbagai transaksi dalam satu alur yang jelas.",
   path: "/tentang",
@@ -29,7 +29,7 @@ export default function TentangPage() {
       />
 
       <section className="page-hero-banner" style={{ textAlign: "left", padding: "48px 0 32px" }}>
-        <div className="section-kicker">TENTANG JOGATIX</div>
+        <div className="section-kicker">TENTANG SIPUL</div>
         <h1 style={{ fontSize: "clamp(2.3rem, 3.8vw, 3.2rem)", marginBottom: 14, color: "#0E1126" }}>
           Kebutuhan digital, lebih mudah dijangkau.
         </h1>
